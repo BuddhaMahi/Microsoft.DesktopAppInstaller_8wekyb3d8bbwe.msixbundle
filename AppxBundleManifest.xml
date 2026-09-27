@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bundle SchemaVersion="5.0" IgnorableNamespaces="b4 b5" xmlns="http://schemas.microsoft.com/appx/2013/bundle" xmlns:b4="http://schemas.microsoft.com/appx/2018/bundle" xmlns:b5="http://schemas.microsoft.com/appx/2019/bundle">
+	<Identity Name="Microsoft.DesktopAppInstaller" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="2026.728.1707.0"/>
+	<Packages>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-af" FileName="AppInstaller_language-af.msix" Offset="61839168" Size="42110">
+			<Resources>
+				<Resource Language="af-za"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-cy" FileName="AppInstaller_language-cy.msix" Offset="62272281" Size="41933">
+			<Resources>
+				<Resource Language="cy-gb"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-fi" FileName="AppInstaller_language-fi.msix" Offset="62667906" Size="41823">
+			<Resources>
+				<Resource Language="fi-fi"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-cs" FileName="AppInstaller_language-cs.msix" Offset="62229627" Size="42571">
+			<Resources>
+				<Resource Language="cs-cz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-bs" FileName="AppInstaller_language-bs.msix" Offset="62140397" Size="42263">
+			<Resources>
+				<Resource Language="bs-latn-ba"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-fa" FileName="AppInstaller_language-fa.msix" Offset="62624978" Size="42845">
+			<Resources>
+				<Resource Language="fa-ir"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-bg" FileName="AppInstaller_language-bg.msix" Offset="62053665" Size="43361">
+			<Resources>
+				<Resource Language="bg-bg"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-es" FileName="AppInstaller_language-es.msix" Offset="62471232" Size="69788">
+			<Resources>
+				<Resource Language="es-es"/>
+				<Resource Language="es-mx"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-el" FileName="AppInstaller_language-el.msix" Offset="62427132" Size="44017">
+			<Resources>
+				<Resource Language="el-gr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-de" FileName="AppInstaller_language-de.msix" Offset="62356300" Size="70749">
+			<Resources>
+				<Resource Language="de-de"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-am" FileName="AppInstaller_language-am.msix" Offset="61881361" Size="43500">
+			<Resources>
+				<Resource Language="am-et"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-eu" FileName="AppInstaller_language-eu.msix" Offset="62583076" Size="41819">
+			<Resources>
+				<Resource Language="eu-es"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-as" FileName="AppInstaller_language-as.msix" Offset="61967737" Size="43299">
+			<Resources>
+				<Resource Language="as-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-et" FileName="AppInstaller_language-et.msix" Offset="62541103" Size="41890">
+			<Resources>
+				<Resource Language="et-ee"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-bn" FileName="AppInstaller_language-bn.msix" Offset="62097109" Size="43205">
+			<Resources>
+				<Resource Language="bn-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-tr" FileName="AppInstaller_language-tr.msix" Offset="65064164" Size="42007">
+			<Resources>
+				<Resource Language="tr-tr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-mi-latn" FileName="AppInstaller_language-mi-latn.msix" Offset="63887961" Size="41516">
+			<Resources>
+				<Resource Language="mi-nz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-nl" FileName="AppInstaller_language-nl.msix" Offset="64229114" Size="42178">
+			<Resources>
+				<Resource Language="nl-nl"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-sk" FileName="AppInstaller_language-sk.msix" Offset="64676357" Size="42571">
+			<Resources>
+				<Resource Language="sk-sk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-km" FileName="AppInstaller_language-km.msix" Offset="63518037" Size="43503">
+			<Resources>
+				<Resource Language="km-kh"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-th" FileName="AppInstaller_language-th.msix" Offset="65021175" Size="42906">
+			<Resources>
+				<Resource Language="th-th"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-kok" FileName="AppInstaller_language-kok.msix" Offset="63673783" Size="43474">
+			<Resources>
+				<Resource Language="kok-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-kn" FileName="AppInstaller_language-kn.msix" Offset="63561623" Size="43462">
+			<Resources>
+				<Resource Language="kn-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ka" FileName="AppInstaller_language-ka.msix" Offset="63431404" Size="43369">
+			<Resources>
+				<Resource Language="ka-ge"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-gl" FileName="AppInstaller_language-gl.msix" Offset="62911739" Size="42060">
+			<Resources>
+				<Resource Language="gl-es"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-hr" FileName="AppInstaller_language-hr.msix" Offset="63082619" Size="42159">
+			<Resources>
+				<Resource Language="hr-hr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-hi" FileName="AppInstaller_language-hi.msix" Offset="63039339" Size="43197">
+			<Resources>
+				<Resource Language="hi-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-pa" FileName="AppInstaller_language-pa.msix" Offset="64356700" Size="43383">
+			<Resources>
+				<Resource Language="pa-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-gu" FileName="AppInstaller_language-gu.msix" Offset="62953882" Size="43155">
+			<Resources>
+				<Resource Language="gu-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-sv" FileName="AppInstaller_language-sv.msix" Offset="64892280" Size="41727">
+			<Resources>
+				<Resource Language="sv-se"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-sr-latn" FileName="AppInstaller_language-sr-latn.msix" Offset="64849958" Size="42239">
+			<Resources>
+				<Resource Language="sr-latn-rs"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-id" FileName="AppInstaller_language-id.msix" Offset="63210689" Size="41420">
+			<Resources>
+				<Resource Language="id-id"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-is" FileName="AppInstaller_language-is.msix" Offset="63252192" Size="42039">
+			<Resources>
+				<Resource Language="is-is"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-zh-hans" FileName="AppInstaller_language-zh-hans.msix" Offset="65363766" Size="65000">
+			<Resources>
+				<Resource Language="zh-cn"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ja" FileName="AppInstaller_language-ja.msix" Offset="63363040" Size="68281">
+			<Resources>
+				<Resource Language="ja-jp"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-gd-latn" FileName="AppInstaller_language-gd-latn.msix" Offset="62869053" Size="42603">
+			<Resources>
+				<Resource Language="gd-gb"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-kk" FileName="AppInstaller_language-kk.msix" Offset="63474856" Size="43098">
+			<Resources>
+				<Resource Language="kk-kz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-lt" FileName="AppInstaller_language-lt.msix" Offset="63803324" Size="42198">
+			<Resources>
+				<Resource Language="lt-lt"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ga" FileName="AppInstaller_language-ga.msix" Offset="62826656" Size="42309">
+			<Resources>
+				<Resource Language="ga-ie"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-sr-cyrl" FileName="AppInstaller_language-sr-cyrl.msix" Offset="64804025" Size="45845">
+			<Resources>
+				<Resource Language="sr-cyrl-ba"/>
+				<Resource Language="sr-cyrl-rs"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ta" FileName="AppInstaller_language-ta.msix" Offset="64934090" Size="43276">
+			<Resources>
+				<Resource Language="ta-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-vi" FileName="AppInstaller_language-vi.msix" Offset="65321506" Size="42172">
+			<Resources>
+				<Resource Language="vi-vn"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-lo" FileName="AppInstaller_language-lo.msix" Offset="63759816" Size="43425">
+			<Resources>
+				<Resource Language="lo-la"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-sl" FileName="AppInstaller_language-sl.msix" Offset="64719011" Size="42230">
+			<Resources>
+				<Resource Language="sl-si"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-uz-latn" FileName="AppInstaller_language-uz-latn.msix" Offset="65279480" Size="41943">
+			<Resources>
+				<Resource Language="uz-latn-uz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-da" FileName="AppInstaller_language-da.msix" Offset="62314297" Size="41920">
+			<Resources>
+				<Resource Language="da-dk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-mk" FileName="AppInstaller_language-mk.msix" Offset="63929560" Size="43203">
+			<Resources>
+				<Resource Language="mk-mk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ml" FileName="AppInstaller_language-ml.msix" Offset="63972846" Size="43788">
+			<Resources>
+				<Resource Language="ml-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-tt-cyrl" FileName="AppInstaller_language-tt-cyrl.msix" Offset="65106259" Size="43068">
+			<Resources>
+				<Resource Language="tt-ru"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ms" FileName="AppInstaller_language-ms.msix" Offset="64059935" Size="41534">
+			<Resources>
+				<Resource Language="ms-my"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-mt" FileName="AppInstaller_language-mt.msix" Offset="64101552" Size="42325">
+			<Resources>
+				<Resource Language="mt-mt"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-nb" FileName="AppInstaller_language-nb.msix" Offset="64143960" Size="41696">
+			<Resources>
+				<Resource Language="nb-no"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ru" FileName="AppInstaller_language-ru.msix" Offset="64601056" Size="75218">
+			<Resources>
+				<Resource Language="ru-ru"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ug-arab" FileName="AppInstaller_language-ug-arab.msix" Offset="65149415" Size="42894">
+			<Resources>
+				<Resource Language="ug-cn"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-nn" FileName="AppInstaller_language-nn.msix" Offset="64271375" Size="41835">
+			<Resources>
+				<Resource Language="nn-no"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-or" FileName="AppInstaller_language-or.msix" Offset="64313293" Size="43324">
+			<Resources>
+				<Resource Language="or-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-he" FileName="AppInstaller_language-he.msix" Offset="62997120" Size="42136">
+			<Resources>
+				<Resource Language="he-il"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-pl" FileName="AppInstaller_language-pl.msix" Offset="64400166" Size="42503">
+			<Resources>
+				<Resource Language="pl-pl"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-pt" FileName="AppInstaller_language-pt.msix" Offset="64442752" Size="74155">
+			<Resources>
+				<Resource Language="pt-br"/>
+				<Resource Language="pt-pt"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ur" FileName="AppInstaller_language-ur.msix" Offset="65235996" Size="43396">
+			<Resources>
+				<Resource Language="ur-pk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-uk" FileName="AppInstaller_language-uk.msix" Offset="65192392" Size="43521">
+			<Resources>
+				<Resource Language="uk-ua"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-mr" FileName="AppInstaller_language-mr.msix" Offset="64016717" Size="43135">
+			<Resources>
+				<Resource Language="mr-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ar" FileName="AppInstaller_language-ar.msix" Offset="61924944" Size="42710">
+			<Resources>
+				<Resource Language="ar-sa"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-sq" FileName="AppInstaller_language-sq.msix" Offset="64761324" Size="42613">
+			<Resources>
+				<Resource Language="sq-al"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ko" FileName="AppInstaller_language-ko.msix" Offset="63605168" Size="68531">
+			<Resources>
+				<Resource Language="ko-kr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ca" FileName="AppInstaller_language-ca.msix" Offset="62182743" Size="46801">
+			<Resources>
+				<Resource Language="ca-es"/>
+				<Resource Language="ca-es-valencia"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ne" FileName="AppInstaller_language-ne.msix" Offset="64185739" Size="43292">
+			<Resources>
+				<Resource Language="ne-np"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-quz-latn" FileName="AppInstaller_language-quz-latn.msix" Offset="64516996" Size="41570">
+			<Resources>
+				<Resource Language="quz-pe"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-te" FileName="AppInstaller_language-te.msix" Offset="64977449" Size="43643">
+			<Resources>
+				<Resource Language="te-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-fil-latn" FileName="AppInstaller_language-fil-latn.msix" Offset="62709818" Size="42108">
+			<Resources>
+				<Resource Language="fil-ph"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-hy" FileName="AppInstaller_language-hy.msix" Offset="63167347" Size="43259">
+			<Resources>
+				<Resource Language="hy-am"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-az-latn" FileName="AppInstaller_language-az-latn.msix" Offset="62011124" Size="42458">
+			<Resources>
+				<Resource Language="az-latn-az"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-lv" FileName="AppInstaller_language-lv.msix" Offset="63845605" Size="42268">
+			<Resources>
+				<Resource Language="lv-lv"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-hu" FileName="AppInstaller_language-hu.msix" Offset="63124861" Size="42403">
+			<Resources>
+				<Resource Language="hu-hu"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-fr" FileName="AppInstaller_language-fr.msix" Offset="62752009" Size="74564">
+			<Resources>
+				<Resource Language="fr-ca"/>
+				<Resource Language="fr-fr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-lb" FileName="AppInstaller_language-lb.msix" Offset="63717340" Size="42393">
+			<Resources>
+				<Resource Language="lb-lu"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-ro" FileName="AppInstaller_language-ro.msix" Offset="64558649" Size="42324">
+			<Resources>
+				<Resource Language="ro-ro"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-zh-hant" FileName="AppInstaller_language-zh-hant.msix" Offset="65428854" Size="65693">
+			<Resources>
+				<Resource Language="zh-tw"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.language-it" FileName="AppInstaller_language-it.msix" Offset="63294314" Size="68643">
+			<Resources>
+				<Resource Language="it-it"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.scale-100" FileName="AppInstaller_scale-100.msix" Offset="65494628" Size="176240">
+			<Resources>
+				<Resource Scale="100"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.scale-125" FileName="AppInstaller_scale-125.msix" Offset="65670949" Size="244226">
+			<Resources>
+				<Resource Scale="125"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.scale-400" FileName="AppInstaller_scale-400.msix" Offset="66215067" Size="1382670">
+			<Resources>
+				<Resource Scale="400"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.29.290.0" ResourceId="split.scale-150" FileName="AppInstaller_scale-150.msix" Offset="65915256" Size="299730">
+			<Resources>
+				<Resource Scale="150"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="application" Version="1.29.290.0" Architecture="x64" FileName="AppInstaller_x64.msix" Offset="67597812" Size="62424140">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Language="EN-GB"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<b5:Package Type="application" Version="1.29.289.0" Architecture="x64" FileName="AppxMetadata\Stub\AppInstaller_x64_stub.msix" Offset="198633553" Size="9566333" IsStub="true">
+			<b5:Resources>
+				<b5:Resource Language="EN-US"/>
+				<b5:Resource Language="EN-GB"/>
+				<b5:Resource Scale="200"/>
+			</b5:Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</b5:Package>
+		<Package Type="application" Version="1.29.290.0" Architecture="x86" FileName="AppInstaller_x86.msix" Offset="130022027" Size="58650808">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Language="EN-GB"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<b5:Package Type="application" Version="1.29.289.0" Architecture="x86" FileName="AppxMetadata\Stub\AppInstaller_x86_stub.msix" Offset="208199984" Size="8564083" IsStub="true">
+			<b5:Resources>
+				<b5:Resource Language="EN-US"/>
+				<b5:Resource Language="EN-GB"/>
+				<b5:Resource Scale="200"/>
+			</b5:Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</b5:Package>
+		<Package Type="application" Version="1.29.290.0" Architecture="arm64" FileName="AppInstaller_arm64.msix" Offset="53" Size="61839032">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Language="EN-GB"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</Package>
+		<b5:Package Type="application" Version="1.29.289.0" Architecture="arm64" FileName="AppxMetadata\Stub\AppInstaller_arm64_stub.msix" Offset="188672935" Size="9960520" IsStub="true">
+			<b5:Resources>
+				<b5:Resource Language="EN-US"/>
+				<b5:Resource Language="EN-GB"/>
+				<b5:Resource Scale="200"/>
+			</b5:Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.26100.0"/>
+			</b4:Dependencies>
+		</b5:Package>
+	</Packages>
+</Bundle>
