@@ -1,0 +1,40 @@
+﻿<html>
+<head>
+<SCRIPT type="text/javascript">
+    //Position the window off screen to stop the initial flicker
+    try
+    {
+        window.moveTo(-2000,-2000);
+    }
+    catch(ignore)
+    {
+    }
+</SCRIPT>
+<hta :APPLICATION ID="AutorunLauncher" APPLICATIONNAME="Autorun Launcher" SHOWINTASKBAR="no" WINDOWSTATE="minimize"></hta>
+
+<script language="javascript">
+
+    function RunExe(filename, param)
+    {
+        try
+        {
+            fso = new ActiveXObject("Scripting.FileSystemObject");
+            filename = fso.GetAbsolutePathName(filename);
+            Shell = new ActiveXObject("WScript.Shell");
+            filename = '"' + filename + '" ' + param;
+            Shell.Run(filename);
+        }
+        catch(e)
+        {
+            alert("Cannot open " + filename);
+        }
+    }
+
+    //This method of starting the autorun is used because a cmd script can't run from a share.
+
+    //Call setup and tell it to start the autorun, then exit.
+    RunExe("./setup.exe", "autorun");
+
+    window.close();
+
+</script>
